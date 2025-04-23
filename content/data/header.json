@@ -35,7 +35,7 @@
             "altText": "Careers page",
             "url": "/careers",
             "icon": "github",
-            "iconPosition": "left",
+            "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
             "showIcon": true
