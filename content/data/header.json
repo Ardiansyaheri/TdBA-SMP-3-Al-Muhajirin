@@ -25,7 +25,7 @@
             "label": "Blog",
             "altText": "Blog",
             "url": "/blog",
-            "icon": "play",
+            "icon": "mail",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
