@@ -36,7 +36,18 @@
         {
             "label": "Contact Us",
             "altText": "Contact Page",
-            "links": [],
+            "links": [
+                {
+                    "type": "Link",
+                    "altText": "",
+                    "url": "https://www.instagram.com/ponpes.almuhajirin3/",
+                    "showIcon": true,
+                    "icon": "instagram",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
+                }
+            ],
             "labelStyle": "secondary",
             "type": "SubNav"
         },
