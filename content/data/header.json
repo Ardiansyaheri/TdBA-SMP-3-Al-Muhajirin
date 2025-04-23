@@ -34,16 +34,6 @@
             "showIcon": true
         },
         {
-            "label": "Our Team",
-            "altText": "Team Page",
-            "url": "/careers",
-            "icon": "github",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link",
-            "showIcon": true
-        },
-        {
             "label": "Dropdown",
             "altText": "Dropdown",
             "links": [
@@ -74,6 +64,16 @@
             ],
             "labelStyle": "secondary",
             "type": "SubNav"
+        },
+        {
+            "label": "Our Team",
+            "altText": "Team Page",
+            "url": "/careers",
+            "icon": "github",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link",
+            "showIcon": true
         }
     ],
     "secondaryLinks": [
