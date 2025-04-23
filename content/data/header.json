@@ -45,7 +45,8 @@
                     "icon": "instagram",
                     "iconPosition": "right",
                     "style": "secondary",
-                    "elementId": ""
+                    "elementId": "",
+                    "label": "Ponpes Al-Muhajirin 3"
                 }
             ],
             "labelStyle": "secondary",
