@@ -16,7 +16,7 @@
         {
             "label": "Buletin",
             "url": "/pricing",
-            "icon": "arrowRight",
+            "icon": "mail",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
