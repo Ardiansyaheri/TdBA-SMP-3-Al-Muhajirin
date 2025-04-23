@@ -20,7 +20,8 @@
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link",
-            "altText": "Buletin Page"
+            "altText": "Buletin Page",
+            "showIcon": true
         },
         {
             "label": "Blog",
